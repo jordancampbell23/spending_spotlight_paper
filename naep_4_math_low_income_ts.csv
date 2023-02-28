@@ -1,0 +1,541 @@
+Year,State,Eligible
+2003,Alabama,213
+2003,Alaska,220
+2003,Arizona,217
+2003,Arkansas,221
+2003,California,216
+2003,Colorado,219
+2003,Connecticut,220
+2003,Delaware,225
+2003,District of Columbia,200
+2003,DoDEA,0
+2003,Florida,222
+2003,Georgia,219
+2003,Hawaii,216
+2003,Idaho,227
+2003,Illinois,216
+2003,Indiana,225
+2003,Iowa,227
+2003,Kansas,231
+2003,Kentucky,220
+2003,Louisiana,220
+2003,Maine,228
+2003,Maryland,216
+2003,Massachusetts,226
+2003,Michigan,220
+2003,Minnesota,226
+2003,Mississippi,216
+2003,Missouri,224
+2003,Montana,227
+2003,United States,222
+2003,Nebraska,222
+2003,Nevada,216
+2003,New Hampshire,229
+2003,New Jersey,221
+2003,New Mexico,217
+2003,New York,225
+2003,North Carolina,229
+2003,North Dakota,228
+2003,Ohio,224
+2003,Oklahoma,223
+2003,Oregon,226
+2003,Pennsylvania,220
+2003,Puerto Rico,0
+2003,Rhode Island,217
+2003,South Carolina,226
+2003,South Dakota,227
+2003,Tennessee,216
+2003,Texas,229
+2003,Utah,225
+2003,Vermont,229
+2003,Virginia,225
+2003,Washington,226
+2003,West Virginia,225
+2003,Wisconsin,221
+2003,Wyoming,233
+2005,Alabama,214
+2005,Alaska,223
+2005,Arizona,220
+2005,Arkansas,226
+2005,California,219
+2005,Colorado,224
+2005,Connecticut,223
+2005,Delaware,229
+2005,District of Columbia,206
+2005,DoDEA,0
+2005,Florida,229
+2005,Georgia,224
+2005,Hawaii,220
+2005,Idaho,234
+2005,Illinois,218
+2005,Indiana,231
+2005,Iowa,231
+2005,Kansas,235
+2005,Kentucky,224
+2005,Louisiana,224
+2005,Maine,230
+2005,Maryland,221
+2005,Massachusetts,231
+2005,Michigan,223
+2005,Minnesota,231
+2005,Mississippi,221
+2005,Missouri,225
+2005,Montana,231
+2005,United States,225
+2005,Nebraska,225
+2005,Nevada,219
+2005,New Hampshire,232
+2005,New Jersey,227
+2005,New Mexico,217
+2005,New York,228
+2005,North Carolina,229
+2005,North Dakota,234
+2005,Ohio,227
+2005,Oklahoma,227
+2005,Oregon,230
+2005,Pennsylvania,225
+2005,Puerto Rico,0
+2005,Rhode Island,218
+2005,South Carolina,227
+2005,South Dakota,232
+2005,Tennessee,220
+2005,Texas,233
+2005,Utah,229
+2005,Vermont,230
+2005,Virginia,225
+2005,Washington,231
+2005,West Virginia,225
+2005,Wisconsin,225
+2005,Wyoming,236
+2007,Alabama,217
+2007,Alaska,225
+2007,Arizona,219
+2007,Arkansas,229
+2007,California,219
+2007,Colorado,225
+2007,Connecticut,222
+2007,Delaware,232
+2007,District of Columbia,207
+2007,DoDEA,0
+2007,Florida,233
+2007,Georgia,224
+2007,Hawaii,224
+2007,Idaho,232
+2007,Illinois,223
+2007,Indiana,235
+2007,Iowa,231
+2007,Kansas,237
+2007,Kentucky,226
+2007,Louisiana,225
+2007,Maine,232
+2007,Maryland,225
+2007,Massachusetts,237
+2007,Michigan,224
+2007,Minnesota,232
+2007,Mississippi,222
+2007,Missouri,228
+2007,Montana,234
+2007,United States,227
+2007,Nebraska,225
+2007,Nevada,221
+2007,New Hampshire,236
+2007,New Jersey,233
+2007,New Mexico,221
+2007,New York,233
+2007,North Carolina,231
+2007,North Dakota,235
+2007,Ohio,230
+2007,Oklahoma,230
+2007,Oregon,226
+2007,Pennsylvania,227
+2007,Puerto Rico,0
+2007,Rhode Island,222
+2007,South Carolina,226
+2007,South Dakota,230
+2007,Tennessee,223
+2007,Texas,235
+2007,Utah,229
+2007,Vermont,234
+2007,Virginia,230
+2007,Washington,230
+2007,West Virginia,229
+2007,Wisconsin,228
+2007,Wyoming,236
+2009,Alabama,217
+2009,Alaska,226
+2009,Arizona,219
+2009,Arkansas,229
+2009,California,220
+2009,Colorado,228
+2009,Connecticut,225
+2009,Delaware,229
+2009,District of Columbia,211
+2009,DoDEA,0
+2009,Florida,235
+2009,Georgia,225
+2009,Hawaii,224
+2009,Idaho,234
+2009,Illinois,224
+2009,Indiana,232
+2009,Iowa,232
+2009,Kansas,236
+2009,Kentucky,229
+2009,Louisiana,223
+2009,Maine,235
+2009,Maryland,229
+2009,Massachusetts,237
+2009,Michigan,222
+2009,Minnesota,234
+2009,Mississippi,221
+2009,Missouri,229
+2009,Montana,235
+2009,United States,227
+2009,Nebraska,227
+2009,Nevada,226
+2009,New Hampshire,237
+2009,New Jersey,229
+2009,New Mexico,223
+2009,New York,233
+2009,North Carolina,232
+2009,North Dakota,236
+2009,Ohio,230
+2009,Oklahoma,231
+2009,Oregon,227
+2009,Pennsylvania,228
+2009,Puerto Rico,0
+2009,Rhode Island,224
+2009,South Carolina,226
+2009,South Dakota,232
+2009,Tennessee,222
+2009,Texas,233
+2009,Utah,227
+2009,Vermont,235
+2009,Virginia,230
+2009,Washington,231
+2009,West Virginia,227
+2009,Wisconsin,229
+2009,Wyoming,234
+2011,Alabama,222
+2011,Alaska,224
+2011,Arizona,227
+2011,Arkansas,230
+2011,California,222
+2011,Colorado,231
+2011,Connecticut,223
+2011,Delaware,231
+2011,District of Columbia,213
+2011,DoDEA,0
+2011,Florida,232
+2011,Georgia,227
+2011,Hawaii,228
+2011,Idaho,232
+2011,Illinois,225
+2011,Indiana,235
+2011,Iowa,233
+2011,Kansas,238
+2011,Kentucky,232
+2011,Louisiana,224
+2011,Maine,235
+2011,Maryland,233
+2011,Massachusetts,239
+2011,Michigan,224
+2011,Minnesota,235
+2011,Mississippi,224
+2011,Missouri,230
+2011,Montana,234
+2011,United States,229
+2011,Nebraska,227
+2011,Nevada,229
+2011,New Hampshire,241
+2011,New Jersey,233
+2011,New Mexico,226
+2011,New York,229
+2011,North Carolina,235
+2011,North Dakota,235
+2011,Ohio,234
+2011,Oklahoma,232
+2011,Oregon,226
+2011,Pennsylvania,231
+2011,Puerto Rico,182
+2011,Rhode Island,229
+2011,South Carolina,227
+2011,South Dakota,231
+2011,Tennessee,225
+2011,Texas,234
+2011,Utah,232
+2011,Vermont,238
+2011,Virginia,231
+2011,Washington,230
+2011,West Virginia,227
+2011,Wisconsin,231
+2011,Wyoming,236
+2013,Alabama,223
+2013,Alaska,224
+2013,Arizona,230
+2013,Arkansas,232
+2013,California,224
+2013,Colorado,233
+2013,Connecticut,225
+2013,Delaware,233
+2013,District of Columbia,220
+2013,DoDEA,0
+2013,Florida,233
+2013,Georgia,230
+2013,Hawaii,234
+2013,Idaho,233
+2013,Illinois,226
+2013,Indiana,239
+2013,Iowa,232
+2013,Kansas,237
+2013,Kentucky,232
+2013,Louisiana,226
+2013,Maine,236
+2013,Maryland,228
+2013,Massachusetts,237
+2013,Michigan,224
+2013,Minnesota,237
+2013,Mississippi,226
+2013,Missouri,230
+2013,Montana,234
+2013,United States,230
+2013,Nebraska,230
+2013,Nevada,230
+2013,New Hampshire,239
+2013,New Jersey,232
+2013,New Mexico,228
+2013,New York,231
+2013,North Carolina,235
+2013,North Dakota,236
+2013,Ohio,232
+2013,Oklahoma,232
+2013,Oregon,230
+2013,Pennsylvania,232
+2013,Puerto Rico,182
+2013,Rhode Island,229
+2013,South Carolina,227
+2013,South Dakota,230
+2013,Tennessee,228
+2013,Texas,233
+2013,Utah,233
+2013,Vermont,236
+2013,Virginia,231
+2013,Washington,234
+2013,West Virginia,234
+2013,Wisconsin,232
+2013,Wyoming,239
+2015,Alabama,223
+2015,Alaska,225
+2015,Arizona,228
+2015,Arkansas,230
+2015,California,221
+2015,Colorado,228
+2015,Connecticut,223
+2015,Delaware,229
+2015,District of Columbia,222
+2015,DoDEA,0
+2015,Florida,235
+2015,Georgia,228
+2015,Hawaii,229
+2015,Idaho,230
+2015,Illinois,225
+2015,Indiana,239
+2015,Iowa,231
+2015,Kansas,231
+2015,Kentucky,234
+2015,Louisiana,228
+2015,Maine,233
+2015,Maryland,225
+2015,Massachusetts,236
+2015,Michigan,223
+2015,Minnesota,234
+2015,Mississippi,229
+2015,Missouri,230
+2015,Montana,231
+2015,United States,229
+2015,Nebraska,231
+2015,Nevada,226
+2015,New Hampshire,236
+2015,New Jersey,230
+2015,New Mexico,226
+2015,New York,228
+2015,North Carolina,234
+2015,North Dakota,232
+2015,Ohio,230
+2015,Oklahoma,232
+2015,Oregon,230
+2015,Pennsylvania,229
+2015,Puerto Rico,183
+2015,Rhode Island,226
+2015,South Carolina,229
+2015,South Dakota,229
+2015,Tennessee,232
+2015,Texas,235
+2015,Utah,231
+2015,Vermont,232
+2015,Virginia,233
+2015,Washington,232
+2015,West Virginia,230
+2015,Wisconsin,229
+2015,Wyoming,237
+2017,Alabama,225
+2017,Alaska,219
+2017,Arizona,224
+2017,Arkansas,227
+2017,California,221
+2017,Colorado,226
+2017,Connecticut,224
+2017,Delaware,225
+2017,District of Columbia,223
+2017,DoDEA,0
+2017,Florida,239
+2017,Georgia,226
+2017,Hawaii,228
+2017,Idaho,231
+2017,Illinois,224
+2017,Indiana,235
+2017,Iowa,230
+2017,Kansas,231
+2017,Kentucky,230
+2017,Louisiana,223
+2017,Maine,228
+2017,Maryland,225
+2017,Massachusetts,232
+2017,Michigan,222
+2017,Minnesota,231
+2017,Mississippi,229
+2017,Missouri,228
+2017,Montana,232
+2017,United States,228
+2017,Nebraska,234
+2017,Nevada,225
+2017,New Hampshire,231
+2017,New Jersey,231
+2017,New Mexico,224
+2017,New York,226
+2017,North Carolina,232
+2017,North Dakota,233
+2017,Ohio,228
+2017,Oklahoma,231
+2017,Oregon,224
+2017,Pennsylvania,228
+2017,Puerto Rico,190
+2017,Rhode Island,225
+2017,South Carolina,226
+2017,South Dakota,230
+2017,Tennessee,227
+2017,Texas,232
+2017,Utah,230
+2017,Vermont,229
+2017,Virginia,234
+2017,Washington,228
+2017,West Virginia,234
+2017,Wisconsin,225
+2017,Wyoming,239
+2019,Alabama,220
+2019,Alaska,220
+2019,Arizona,226
+2019,Arkansas,226
+2019,California,223
+2019,Colorado,225
+2019,Connecticut,227
+2019,Delaware,227
+2019,District of Columbia,226
+2019,DoDEA,0
+2019,Florida,239
+2019,Georgia,227
+2019,Hawaii,226
+2019,Idaho,233
+2019,Illinois,226
+2019,Indiana,235
+2019,Iowa,227
+2019,Kansas,228
+2019,Kentucky,230
+2019,Louisiana,224
+2019,Maine,230
+2019,Maryland,224
+2019,Massachusetts,231
+2019,Michigan,224
+2019,Minnesota,231
+2019,Mississippi,236
+2019,Missouri,230
+2019,Montana,232
+2019,United States,229
+2019,Nebraska,233
+2019,Nevada,229
+2019,New Hampshire,232
+2019,New Jersey,231
+2019,New Mexico,226
+2019,New York,226
+2019,North Carolina,230
+2019,North Dakota,231
+2019,Ohio,230
+2019,Oklahoma,230
+2019,Oregon,227
+2019,Pennsylvania,227
+2019,Puerto Rico,185
+2019,Rhode Island,229
+2019,South Carolina,227
+2019,South Dakota,226
+2019,Tennessee,226
+2019,Texas,235
+2019,Utah,232
+2019,Vermont,229
+2019,Virginia,234
+2019,Washington,228
+2019,West Virginia,222
+2019,Wisconsin,226
+2019,Wyoming,236
+2022,Alabama,218
+2022,Alaska,213
+2022,Arizona,218
+2022,Arkansas,221
+2022,California,218
+2022,Colorado,220
+2022,Connecticut,219
+2022,Delaware,210
+2022,District of Columbia,213
+2022,DoDEA,0
+2022,Florida,233
+2022,Georgia,225
+2022,Hawaii,225
+2022,Idaho,226
+2022,Illinois,221
+2022,Indiana,229
+2022,Iowa,226
+2022,Kansas,220
+2022,Kentucky,224
+2022,Louisiana,221
+2022,Maine,220
+2022,Maryland,210
+2022,Massachusetts,225
+2022,Michigan,220
+2022,Minnesota,219
+2022,Mississippi,229
+2022,Missouri,217
+2022,Montana,228
+2022,United States,223
+2022,Nebraska,226
+2022,Nevada,225
+2022,New Hampshire,224
+2022,New Jersey,220
+2022,New Mexico,216
+2022,New York,217
+2022,North Carolina,219
+2022,North Dakota,225
+2022,Ohio,221
+2022,Oklahoma,222
+2022,Oregon,228
+2022,Pennsylvania,223
+2022,Puerto Rico,176
+2022,Rhode Island,222
+2022,South Carolina,224
+2022,South Dakota,220
+2022,Tennessee,221
+2022,Texas,228
+2022,Utah,222
+2022,Vermont,219
+2022,Virginia,218
+2022,Washington,222
+2022,West Virginia,220
+2022,Wisconsin,224
+2022,Wyoming,232
