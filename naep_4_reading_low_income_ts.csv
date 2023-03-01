@@ -60,7 +60,7 @@ Year,State,Eligible
 2005,Connecticut,202
 2005,Delaware,214
 2005,District of Columbia,183
-2005,DoDEA,0
+2005,DoDEA,NA
 2005,Florida,209
 2005,Georgia,201
 2005,Hawaii,197
@@ -113,7 +113,7 @@ Year,State,Eligible
 2007,Connecticut,201
 2007,Delaware,214
 2007,District of Columbia,188
-2007,DoDEA,0
+2007,DoDEA,NA
 2007,Florida,213
 2007,Georgia,207
 2007,Hawaii,203
@@ -166,7 +166,7 @@ Year,State,Eligible
 2009,Connecticut,207
 2009,Delaware,214
 2009,District of Columbia,193
-2009,DoDEA,0
+2009,DoDEA,NA
 2009,Florida,217
 2009,Georgia,207
 2009,Hawaii,198
@@ -219,7 +219,7 @@ Year,State,Eligible
 2011,Connecticut,205
 2011,Delaware,214
 2011,District of Columbia,191
-2011,DoDEA,0
+2011,DoDEA,NA
 2011,Florida,216
 2011,Georgia,209
 2011,Hawaii,201
@@ -272,7 +272,7 @@ Year,State,Eligible
 2013,Connecticut,210
 2013,Delaware,215
 2013,District of Columbia,195
-2013,DoDEA,0
+2013,DoDEA,NA
 2013,Florida,218
 2013,Georgia,211
 2013,Hawaii,201
@@ -325,7 +325,7 @@ Year,State,Eligible
 2015,Connecticut,209
 2015,Delaware,210
 2015,District of Columbia,200
-2015,DoDEA,0
+2015,DoDEA,NA
 2015,Florida,220
 2015,Georgia,214
 2015,Hawaii,203
@@ -378,7 +378,7 @@ Year,State,Eligible
 2017,Connecticut,211
 2017,Delaware,210
 2017,District of Columbia,204
-2017,DoDEA,0
+2017,DoDEA,NA
 2017,Florida,219
 2017,Georgia,209
 2017,Hawaii,203
@@ -431,7 +431,7 @@ Year,State,Eligible
 2019,Connecticut,205
 2019,Delaware,202
 2019,District of Columbia,203
-2019,DoDEA,0
+2019,DoDEA,NA
 2019,Florida,216
 2019,Georgia,207
 2019,Hawaii,206
@@ -484,7 +484,7 @@ Year,State,Eligible
 2022,Connecticut,201
 2022,Delaware,189
 2022,District of Columbia,194
-2022,DoDEA,0
+2022,DoDEA,NA
 2022,Florida,215
 2022,Georgia,204
 2022,Hawaii,204
