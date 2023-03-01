@@ -1,53 +1,53 @@
-State	2003	2019	2022	19 diff	22 diff	1922 diff
-Alabama	246	254	248	8	2	-6
-Alaska	260	260	254	0	-6	-6
-Arizona	258	270	257	12	-1	-13
-Arkansas	256	263	259	7	3	-4
-California	251	262	256	11	5	-6
-Colorado	262	265	254	3	-8	-11
-Connecticut	260	263	256	3	-4	-7
-Delaware	261	259	245	-2	-16	-14
-District of Columbia	235	257	250	22	15	-7
-Florida	256	267	261	11	5	-6
-Georgia	253	265	260	12	7	-5
-Hawaii	254	262	259	8	5	-3
-Idaho	267	271	269	4	2	-2
-Illinois	256	269	259	13	3	-10
-Indiana	266	272	265	6	-1	-7
-Iowa	266	267	258	1	-8	-9
-Kansas	270	269	257	-1	-13	-12
-Kentucky	261	267	259	6	-2	-8
-Louisiana	256	262	257	6	1	-5
-Maine	268	268	259	0	-9	-9
-Maryland	255	260	250	5	-5	-10
-Massachusetts	261	272	263	11	2	-9
-Michigan	257	265	259	8	2	-6
-Minnesota	271	270	258	-1	-13	-12
-Mississippi	251	267	260	16	9	-7
-Missouri	263	267	256	4	-7	-11
-Montana	273	269	265	-4	-8	-4
-Nebraska	265	270	264	5	-1	-6
-Nevada	254	264	265	10	11	1
-New Hampshire	268	270	262	2	-6	-8
-New Jersey	256	268	259	12	3	-9
-New Mexico	252	262	254	10	2	-8
-New York	262	266	262	4	0	-4
-North Carolina	263	268	259	5	-4	-9
-North Dakota	274	268	263	-6	-11	-5
-Ohio	263	265	259	2	-4	-6
-Oklahoma	260	267	256	7	-4	-11
-Oregon	266	267	270	1	4	3
-Pennsylvania	257	265	259	8	2	-6
-Rhode Island	253	257	254	4	1	-3
-South Carolina	263	263	257	0	-6	-6
-South Dakota	272	270	262	-2	-10	-8
-Tennessee	250	263	252	13	2	-11
-Texas	264	270	264	6	0	-6
-United States	259	266	260	7	1	-6
-Utah	266	266	266	0	0	0
-Vermont	268	272	262	4	-6	-10
-Virginia	261	270	260	9	-1	-10
-Washington	265	268	260	3	-5	-8
-West Virginia	261	262	251	1	-10	-11
-Wisconsin	259	269	263	10	4	-6
-Wyoming	271	273	269	2	-2	-4
+State,2003,2019,2022,19 diff,22 diff,1922 diff
+Alabama,246,254,248,8,2,-6
+Alaska,260,260,254,0,-6,-6
+Arizona,258,270,257,12,-1,-13
+Arkansas,256,263,259,7,3,-4
+California,251,262,256,11,5,-6
+Colorado,262,265,254,3,-8,-11
+Connecticut,260,263,256,3,-4,-7
+Delaware,261,259,245,-2,-16,-14
+District of Columbia,235,257,250,22,15,-7
+Florida,256,267,261,11,5,-6
+Georgia,253,265,260,12,7,-5
+Hawaii,254,262,259,8,5,-3
+Idaho,267,271,269,4,2,-2
+Illinois,256,269,259,13,3,-10
+Indiana,266,272,265,6,-1,-7
+Iowa,266,267,258,1,-8,-9
+Kansas,270,269,257,-1,-13,-12
+Kentucky,261,267,259,6,-2,-8
+Louisiana,256,262,257,6,1,-5
+Maine,268,268,259,0,-9,-9
+Maryland,255,260,250,5,-5,-10
+Massachusetts,261,272,263,11,2,-9
+Michigan,257,265,259,8,2,-6
+Minnesota,271,270,258,-1,-13,-12
+Mississippi,251,267,260,16,9,-7
+Missouri,263,267,256,4,-7,-11
+Montana,273,269,265,-4,-8,-4
+Nebraska,265,270,264,5,-1,-6
+Nevada,254,264,265,10,11,1
+New Hampshire,268,270,262,2,-6,-8
+New Jersey,256,268,259,12,3,-9
+New Mexico,252,262,254,10,2,-8
+New York,262,266,262,4,0,-4
+North Carolina,263,268,259,5,-4,-9
+North Dakota,274,268,263,-6,-11,-5
+Ohio,263,265,259,2,-4,-6
+Oklahoma,260,267,256,7,-4,-11
+Oregon,266,267,270,1,4,3
+Pennsylvania,257,265,259,8,2,-6
+Rhode Island,253,257,254,4,1,-3
+South Carolina,263,263,257,0,-6,-6
+South Dakota,272,270,262,-2,-10,-8
+Tennessee,250,263,252,13,2,-11
+Texas,264,270,264,6,0,-6
+United States,259,266,260,7,1,-6
+Utah,266,266,266,0,0,0
+Vermont,268,272,262,4,-6,-10
+Virginia,261,270,260,9,-1,-10
+Washington,265,268,260,3,-5,-8
+West Virginia,261,262,251,1,-10,-11
+Wisconsin,259,269,263,10,4,-6
+Wyoming,271,273,269,2,-2,-4
