@@ -386,7 +386,7 @@ Year,State,Eligible
 2017,Connecticut,224
 2017,Delaware,225
 2017,District of Columbia,223
-2017,DoDEA,0
+2017,DoDEA,NA
 2017,Florida,239
 2017,Georgia,226
 2017,Hawaii,228
@@ -440,7 +440,7 @@ Year,State,Eligible
 2019,Connecticut,227
 2019,Delaware,227
 2019,District of Columbia,226
-2019,DoDEA,0
+2019,DoDEA,NA
 2019,Florida,239
 2019,Georgia,227
 2019,Hawaii,226
@@ -494,7 +494,7 @@ Year,State,Eligible
 2022,Connecticut,219
 2022,Delaware,210
 2022,District of Columbia,213
-2022,DoDEA,0
+2022,DoDEA,NA
 2022,Florida,233
 2022,Georgia,225
 2022,Hawaii,225
