@@ -1,58 +1,4 @@
 Year,State,Eligible
-2002,Alabama,195
-2002,Alaska,0
-2002,Arizona,191
-2002,Arkansas,202
-2002,California,190
-2002,Colorado,0
-2002,Connecticut,209
-2002,Delaware,211
-2002,District of Columbia,185
-2002,DoDEA,0
-2002,Florida,204
-2002,Georgia,202
-2002,Hawaii,196
-2002,Idaho,210
-2002,Illinois,0
-2002,Indiana,207
-2002,Iowa,213
-2002,Kansas,211
-2002,Kentucky,209
-2002,Louisiana,197
-2002,Maine,213
-2002,Maryland,202
-2002,Massachusetts,215
-2002,Michigan,204
-2002,Minnesota,218
-2002,Mississippi,195
-2002,Missouri,205
-2002,Montana,213
-2002,Nebraska,209
-2002,Nevada,198
-2002,New Hampshire,0
-2002,New Jersey,0
-2002,New Mexico,201
-2002,New York,207
-2002,North Carolina,208
-2002,North Dakota,214
-2002,Ohio,207
-2002,Oklahoma,203
-2002,Oregon,207
-2002,Pennsylvania,200
-2002,Rhode Island,202
-2002,South Carolina,201
-2002,South Dakota,0
-2002,Tennessee,202
-2002,Texas,210
-2002,United States,203
-2002,Utah,211
-2002,Vermont,213
-2002,Virginia,209
-2002,Washington,211
-2002,West Virginia,210
-2002,Wisconsin,0
-2002,Wyoming,212
-2003,Alabama,193
 2003,Alaska,192
 2003,Arizona,194
 2003,Arkansas,204
@@ -61,7 +7,7 @@ Year,State,Eligible
 2003,Connecticut,205
 2003,Delaware,212
 2003,District of Columbia,182
-2003,DoDEA,0
+2003,DoDEA,NA
 2003,Florida,205
 2003,Georgia,200
 2003,Hawaii,197
