@@ -1,57 +1,4 @@
 Year,State,Eligible
-2002,Alabama,240
-2002,Alaska,0
-2002,Arizona,242
-2002,Arkansas,250
-2002,California,240
-2002,Colorado,0
-2002,Connecticut,247
-2002,Delaware,253
-2002,District of Columbia,235
-2002,DoDEA,0
-2002,Florida,249
-2002,Georgia,245
-2002,Hawaii,241
-2002,Idaho,259
-2002,Illinois,0
-2002,Indiana,253
-2002,Iowa,0
-2002,Kansas,251
-2002,Kentucky,253
-2002,Louisiana,246
-2002,Maine,260
-2002,Maryland,248
-2002,Massachusetts,253
-2002,Michigan,257
-2002,Minnesota,0
-2002,Mississippi,246
-2002,Missouri,257
-2002,Montana,261
-2002,Nebraska,260
-2002,Nevada,240
-2002,New Hampshire,0
-2002,New Jersey,0
-2002,New Mexico,245
-2002,New York,250
-2002,North Carolina,253
-2002,North Dakota,261
-2002,Ohio,257
-2002,Oklahoma,253
-2002,Oregon,257
-2002,Pennsylvania,246
-2002,Rhode Island,249
-2002,South Carolina,245
-2002,South Dakota,0
-2002,Tennessee,246
-2002,Texas,248
-2002,United States,249
-2002,Utah,249
-2002,Vermont,257
-2002,Virginia,256
-2002,Washington,254
-2002,West Virginia,255
-2002,Wisconsin,0
-2002,Wyoming,258
 2003,Alabama,241
 2003,Alaska,239
 2003,Arizona,241
@@ -61,7 +8,7 @@ Year,State,Eligible
 2003,Connecticut,245
 2003,Delaware,250
 2003,District of Columbia,232
-2003,DoDEA,0
+2003,DoDEA,NA
 2003,Florida,245
 2003,Georgia,243
 2003,Hawaii,240
@@ -114,7 +61,7 @@ Year,State,Eligible
 2005,Connecticut,243
 2005,Delaware,254
 2005,District of Columbia,234
-2005,DoDEA,0
+2005,DoDEA,NA
 2005,Florida,246
 2005,Georgia,243
 2005,Hawaii,239
@@ -167,7 +114,7 @@ Year,State,Eligible
 2007,Connecticut,243
 2007,Delaware,254
 2007,District of Columbia,234
-2007,DoDEA,0
+2007,DoDEA,NA
 2007,Florida,249
 2007,Georgia,247
 2007,Hawaii,243
@@ -220,7 +167,7 @@ Year,State,Eligible
 2009,Connecticut,250
 2009,Delaware,253
 2009,District of Columbia,237
-2009,DoDEA,0
+2009,DoDEA,NA
 2009,Florida,255
 2009,Georgia,249
 2009,Hawaii,246
@@ -273,7 +220,7 @@ Year,State,Eligible
 2011,Connecticut,257
 2011,Delaware,256
 2011,District of Columbia,235
-2011,DoDEA,0
+2011,DoDEA,NA
 2011,Florida,254
 2011,Georgia,253
 2011,Hawaii,246
@@ -326,7 +273,7 @@ Year,State,Eligible
 2013,Connecticut,256
 2013,Delaware,255
 2013,District of Columbia,241
-2013,DoDEA,0
+2013,DoDEA,NA
 2013,Florida,257
 2013,Georgia,255
 2013,Hawaii,251
@@ -379,7 +326,7 @@ Year,State,Eligible
 2015,Connecticut,256
 2015,Delaware,253
 2015,District of Columbia,239
-2015,DoDEA,0
+2015,DoDEA,NA
 2015,Florida,257
 2015,Georgia,253
 2015,Hawaii,247
@@ -432,7 +379,7 @@ Year,State,Eligible
 2017,Connecticut,254
 2017,Delaware,252
 2017,District of Columbia,237
-2017,DoDEA,0
+2017,DoDEA,NA
 2017,Florida,257
 2017,Georgia,256
 2017,Hawaii,250
@@ -485,7 +432,7 @@ Year,State,Eligible
 2019,Connecticut,254
 2019,Delaware,245
 2019,District of Columbia,238
-2019,DoDEA,0
+2019,DoDEA,NA
 2019,Florida,255
 2019,Georgia,252
 2019,Hawaii,245
@@ -538,7 +485,7 @@ Year,State,Eligible
 2022,Connecticut,248
 2022,Delaware,241
 2022,District of Columbia,241
-2022,DoDEA,0
+2022,DoDEA,NA
 2022,Florida,253
 2022,Georgia,250
 2022,Hawaii,246
