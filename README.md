@@ -1,4 +1,4 @@
-# spending_spotlight_paper
+# Spending Spotlight Paper
  Data validation for Spending Spotlight 2.0 paper
  
  ## NAEP
